@@ -36,3 +36,8 @@
     transform: rotate(360deg);
   }
 }
+h1{
+  font-family: 'Saira Stencil One', cursive;
+  color: lightblue;
+  font-size: 72px;
+}
